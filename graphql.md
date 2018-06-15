@@ -1,5 +1,22 @@
 # graphql
 
+* 什么是graphql
+    * 一种查询语言
+    * 跟高效的数据抓取
+    * 满足多端的需求
+    * 快速功能开发迭代
+    * 始于facebook
+* graphql跟rest的差别
+    * 用rest获取数据的示例
+        * 过度抓取
+        * 抓取不足
+        * 抓取中的n+1问题
+        * 快速产品迭代
+    * schema和类型系统的好处
+* graphql的核心概念
+* graphql的有那些使用方式
+* 开发一个简单的graphql服务器
+
 * 什么是graphq
 * 传达什么
     * 了解graphql是什么
