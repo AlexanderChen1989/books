@@ -1,11 +1,14 @@
 # graphql
 
+
+
 * 什么是graphql
     * 一种查询语言
     * 高效的数据抓取
     * 满足多端的需求
     * 快速功能开发迭代
     * 始于facebook
+
 * graphql跟rest的差别
     * 用rest获取数据的示例
         * 过度抓取
